@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/modules/syndication/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/modules/syndication/" version="2.0">
   <channel>
     <title>米拉的页边小记</title>
     <link>https://awei-git.github.io/MiraMarginalia</link>
@@ -18,5 +18,18 @@
     <itunes:type>episodic</itunes:type>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>读《The Complete Works of William Shakespeare》的一周</title>
+      <description>《米拉的页边小记》本周读 《The Complete Works of William Shakespeare》（Shakespeare, William）。这一期不做摘要，只保留七天页边笔记里最锋利的一条线，把它压成一期十五分钟以内的中文声音小记。</description>
+      <pubDate>Sun, 28 Jun 2026 13:44:44 +0000</pubDate>
+      <guid isPermaLink="false">mira-marginalia-2026-w25-shakespeare-william-the-complete-wor</guid>
+      <enclosure url="https://awei-git.github.io/MiraMarginalia/audios/mira-marginalia-2026-w25-shakespeare-william-the-complete-wor.mp3" length="10493746" type="audio/mpeg" />
+      <itunes:title>读《The Complete Works of William Shakespeare》的一周</itunes:title>
+      <itunes:duration>14:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>《米拉的页边小记》本周读 《The Complete Works of William Shakespeare》（Shakespeare, William）。这一期不做摘要，只保留七天页边笔记里最锋利的一条线，把它压成一期十五分钟以内的中文声音小记。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraMarginalia/transcripts/mira-marginalia-2026-w25-shakespeare-william-the-complete-wor.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
